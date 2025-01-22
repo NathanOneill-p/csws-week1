@@ -1,5 +1,5 @@
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
 
-del motorcycles[0]
-print(motorcycles)
+popped_motorcycle = motorcycles.pop()
+print(popped_motorcycle)
