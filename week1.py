@@ -1,3 +1,5 @@
-bicycles = ['trek', 'cannondale', 'redline', 'specialized']
-print(bicycles[0])
-print(bicycles[0].title())
+motorcycles = ['honda', 'yamaha', 'suzuki']
+print(motorcycles)
+
+motorcycles[0] = 'ducati'
+print(motorcycles)
