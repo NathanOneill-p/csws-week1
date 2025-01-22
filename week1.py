@@ -1,1 +1,4 @@
-print("Languages:\n\tPython\n\tC\n\tJavaScript")
+language = " python "
+language.rstrip()
+language.lstrip()
+language.strip()
